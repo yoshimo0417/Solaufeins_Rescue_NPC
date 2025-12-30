@@ -148,6 +148,10 @@ LANGUAGE ~Italian~
          ~C#Solaufein/Translations/italian/setup.tra~
          ~C#Solaufein/Translations/italian/game.tra~
 
+LANGUAGE ~Simplified Chinese~
+         ~Schinese~   
+         ~C#Solaufein/Translations/Schinese/setup.tra~
+         ~C#Solaufein/Translations/Schinese/game.tra~
 
 BEGIN @90000
 DESIGNATED 0
